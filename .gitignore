@@ -30,3 +30,7 @@ coverage.html
 .cover*
 
 *.sublime-*
+
+public/styles/keystone.min.css
+
+*.css
